@@ -1,0 +1,243 @@
+{
+  "registros": {
+    "listings": 19187,
+    "reviews": 527731,
+    "calendar": 7003255
+  },
+  "columnas": {
+    "listings": 77,
+    "reviews": 6,
+    "calendar": 5
+  },
+  "nulos_listings_pct": {
+    "host_about": 45.86,
+    "host_location": 26.88,
+    "review_scores_value": 22.23,
+    "review_scores_checkin": 22.23,
+    "review_scores_location": 22.23,
+    "first_review": 22.23,
+    "review_scores_cleanliness": 22.23,
+    "last_review": 22.23,
+    "review_scores_accuracy": 22.23,
+    "reviews_per_month": 22.23,
+    "review_scores_communication": 22.23,
+    "review_scores_rating": 22.23,
+    "bedrooms": 15.42,
+    "license": 15.28,
+    "bathrooms": 5.56,
+    "description": 2.73,
+    "beds": 1.52,
+    "estimated_revenue_l365d": 1.08,
+    "price_quote_total_price": 1.02,
+    "price_quote_price_per_night": 1.02,
+    "price": 1.02,
+    "has_availability": 0.68,
+    "bathrooms_text": 0.15,
+    "minimum_minimum_nights": 0.02,
+    "maximum_minimum_nights": 0.02,
+    "minimum_maximum_nights": 0.02,
+    "maximum_nights": 0.02,
+    "minimum_nights": 0.02,
+    "maximum_maximum_nights": 0.02,
+    "price_quote_raw": 0.02,
+    "price_quote_checkout_date": 0.02,
+    "price_quote_checkin_date": 0.02,
+    "hosts_time_as_host_years": 0.01,
+    "hosts_time_as_host_months": 0.01
+  },
+  "duplicados": {
+    "listings (id)": 0,
+    "listings (fila completa)": 0,
+    "reviews (id)": 0,
+    "reviews (fila completa)": 0,
+    "calendar (listing_id + date)": 0
+  },
+  "precio": {
+    "mediana": 161460.0,
+    "media": 446026.5525505476,
+    "q1": 110000.0,
+    "q3": 230346.375,
+    "p99": 1330087.1317,
+    "max": 448176567.0,
+    "limite_iqr": 410865.9375,
+    "atipicos_iqr": 1410,
+    "mayor_10M": 27,
+    "sin_precio": 195
+  },
+  "minimum_nights": {
+    "1": 9923,
+    "2": 3549,
+    "30": 3240,
+    "max": 32.0
+  },
+  "amenities_distintas": 3690,
+  "amenities_mediana": 26.0,
+  "hosts": {
+    "distintos": 8335,
+    "con_uno": 5961,
+    "alojamientos_hosts_10mas": 6226,
+    "max_alojamientos": 166
+  },
+  "texto": {
+    "bogota_sin_tilde": 2253,
+    "comentarios_br": 69375
+  },
+  "room_type": {
+    "Entire home/apt": {
+      "n": 13865,
+      "mediana_precio": 182589.0
+    },
+    "Private room": {
+      "n": 5172,
+      "mediana_precio": 91295.0
+    },
+    "Shared room": {
+      "n": 117,
+      "mediana_precio": 41453.0
+    },
+    "Hotel room": {
+      "n": 33,
+      "mediana_precio": 193048.0
+    }
+  },
+  "localidades": {
+    "Chapinero": {
+      "median": 199112.0,
+      "count": 5056
+    },
+    "Usaquen": {
+      "median": 194001.0,
+      "count": 3542
+    },
+    "Teusaquillo": {
+      "median": 136479.0,
+      "count": 2763
+    },
+    "Santa Fe": {
+      "median": 149563.0,
+      "count": 1437
+    },
+    "Suba": {
+      "median": 136941.0,
+      "count": 1255
+    },
+    "Engativa": {
+      "median": 112347.0,
+      "count": 1199
+    },
+    "Barrios Unidos": {
+      "median": 142648.0,
+      "count": 1028
+    },
+    "Fontibon": {
+      "median": 136942.0,
+      "count": 956
+    },
+    "Candelaria": {
+      "median": 136941.0,
+      "count": 697
+    },
+    "Kennedy": {
+      "median": 108206.0,
+      "count": 308
+    },
+    "Puente Aranda": {
+      "median": 120965.0,
+      "count": 233
+    },
+    "Los Martires": {
+      "median": 111265.0,
+      "count": 183
+    },
+    "Antonio Nariño": {
+      "median": 115449.0,
+      "count": 86
+    },
+    "San Cristobal": {
+      "median": 102901.0,
+      "count": 79
+    },
+    "Rafael Uribe Uribe": {
+      "median": 125530.0,
+      "count": 73
+    }
+  },
+  "corr_precio": {
+    "accommodates": 0.5,
+    "bedrooms": 0.32,
+    "beds": 0.36,
+    "bathrooms": 0.35,
+    "minimum_nights": -0.18,
+    "availability_365": -0.04,
+    "number_of_reviews": 0.1,
+    "reviews_per_month": 0.05,
+    "review_scores_rating": 0.05,
+    "estimated_occupancy_l365d": 0.06
+  },
+  "top_amenities_pct": {
+    "Wifi": 93.4,
+    "Kitchen": 87.8,
+    "Hot water": 73.4,
+    "TV": 70.8,
+    "Dedicated workspace": 69.4,
+    "Hangers": 68.0,
+    "Dishes and silverware": 62.7,
+    "Cooking basics": 61.8,
+    "Iron": 61.3,
+    "Bed linens": 57.2,
+    "Essentials": 52.0,
+    "Self check-in": 51.7,
+    "Microwave": 49.5,
+    "Long term stays allowed": 49.5,
+    "Refrigerator": 49.0,
+    "Fire extinguisher": 48.4,
+    "Washer": 47.3,
+    "Room-darkening shades": 47.0,
+    "Extra pillows and blankets": 44.3,
+    "First aid kit": 42.6
+  },
+  "reviews_por_anio": {
+    "2010": 2,
+    "2011": 14,
+    "2012": 26,
+    "2013": 119,
+    "2014": 399,
+    "2015": 946,
+    "2016": 2571,
+    "2017": 5365,
+    "2018": 9951,
+    "2019": 15051,
+    "2020": 10393,
+    "2021": 21289,
+    "2022": 42420,
+    "2023": 69607,
+    "2024": 103814,
+    "2025": 154156,
+    "2026": 91608
+  },
+  "disponibilidad_mensual": {
+    "2026-06": 61.3,
+    "2026-07": 76.7,
+    "2026-08": 86.6,
+    "2026-09": 88.9,
+    "2026-10": 86.0,
+    "2026-11": 90.1,
+    "2026-12": 89.1,
+    "2027-01": 88.7,
+    "2027-02": 89.1,
+    "2027-03": 84.7,
+    "2027-04": 78.8,
+    "2027-05": 78.7,
+    "2027-06": 76.9
+  },
+  "disponibilidad_global": 84.1,
+  "disponibilidad_dia_semana": {
+    "Lunes": 84.1,
+    "Martes": 84.6,
+    "Miércoles": 84.5,
+    "Jueves": 84.0,
+    "Viernes": 83.6,
+    "Sábado": 83.7,
+    "Domingo": 84.3
+  }
+}
