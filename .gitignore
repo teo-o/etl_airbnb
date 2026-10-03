@@ -1,0 +1,18 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Salidas generadas por el ETL (se regeneran con python -m src.main)
+output/*
+!output/.gitkeep
+
+# Logs: solo se versiona el log de ejemplo
+logs/*
+!logs/.gitkeep
+!logs/log_ejemplo.txt
+
+# Herramientas
+.superpowers/

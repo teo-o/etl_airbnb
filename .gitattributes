@@ -1,0 +1,6 @@
+# Archivos binarios: git no debe convertir finales de línea (evita corromper el PDF y las imágenes)
+*.pdf  binary
+*.png  binary
+*.gz   binary
+*.xlsx binary
+*.db   binary
